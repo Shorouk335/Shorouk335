@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shorouk335&label=Profile%20views&color=0e75b6&style=flat" alt="shorouk335" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shorouk335" alt="shorouk335" /></a> </p>
-
 - 🔭 I’m currently working on [Top Care](https://github.com/Shorouk335/Top_Care)
 
 - 🌱 I’m currently learning **Flutter and Dart**
@@ -37,3 +35,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shorouk335&" alt="shorouk335" /></p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shorouk335" alt="shorouk335" /></a> </p>
