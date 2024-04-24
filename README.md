@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shorouk Ashraf</h1>
-<h3 align="center">A Flutter developer from Egypt | UX&UI Designer</h3>
+<h3 align="center">A Flutter developer from Egypt </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shorouk335&label=Profile%20views&color=0e75b6&style=flat" alt="shorouk335" /> </p>
 
