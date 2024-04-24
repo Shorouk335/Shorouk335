@@ -5,9 +5,7 @@
 
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
-- 🔭 I’m currently working on [Graduation Project(Top_Care)](https://github.com/Shorouk335/Graduation_Project-Top_Care-)
-
-- 🌱 I’m currently learning **Flutter and Dart**
+- 🔭 I’m currently working in REERAS Technology as Flutter Developer
 
 - 👯 I’m looking to collaborate on **Flutter Projects**
 
@@ -19,7 +17,7 @@
 
 - 📫 How to reach me **shorouqashraf56@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/shorouk-ashraf-29b8a01a4/](https://www.linkedin.com/in/shorouk-ashraf-29b8a01a4/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/shoroukashraf335/](https://www.linkedin.com/in/shoroukashraf335/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
