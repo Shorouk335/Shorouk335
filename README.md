@@ -6,8 +6,6 @@ expectations.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shorouk335&label=Profile%20views&color=0e75b6&style=flat" alt="shorouk335" /> </p>
 
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
-
 - 🔭 I’m currently working in 7L soft as Mobile Software Developer
   
 - 👨‍💻 All of my projects are available at [https://github.com/Shorouk335](https://github.com/Shorouk335)
