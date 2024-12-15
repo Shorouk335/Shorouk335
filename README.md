@@ -8,7 +8,7 @@ expectations.</h3>
 
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
-- 🔭 I’m currently working in REERAS Technology as Flutter Developer
+- 🔭 I’m currently working in 7L soft as Mobile Software Developer
 
 - 👯 I’m looking to collaborate on **Flutter Projects**
 
