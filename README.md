@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Shorouk Ashraf</h1>
-<h3 align="center">A Flutter developer from Egypt </h3>
+<h3 align="center">Experienced Flutter developer adept at crafting high-quality mobile applications with robust interfaces,
+optimized performance, and advanced features. Quick to adapt to new technologies, demonstrating a strong
+learning ability. Collaborative team player known for delivering innovative solutions that surpass client
+expectations.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shorouk335&label=Profile%20views&color=0e75b6&style=flat" alt="shorouk335" /> </p>
 
